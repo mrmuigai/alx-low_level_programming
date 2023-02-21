@@ -2,7 +2,9 @@
 
 /**
  * main - print _putcher
- * written by Eugene 
+ *
+ * written by Eugene
+ *
  * Return: 0
  */
 
